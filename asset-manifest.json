@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a7ddab71.css",
+    "main.js": "/static/js/main.6243a49a.js",
+    "static/js/453.17135239.chunk.js": "/static/js/453.17135239.chunk.js",
+    "static/media/Forensic.png": "/static/media/Forensic.06be4f1cd2f701950ff0.png",
+    "static/media/Sb-Logo.png": "/static/media/Sb-Logo.3f5865ca48b3a65bdd3d.png",
+    "static/media/firewall OpenGL.png": "/static/media/firewall OpenGL.1f38f8a431135572a591.png",
+    "static/media/octanetsolutions_logo.png": "/static/media/octanetsolutions_logo.0af321b81d8081be4386.png",
+    "index.html": "/index.html",
+    "main.a7ddab71.css.map": "/static/css/main.a7ddab71.css.map",
+    "main.6243a49a.js.map": "/static/js/main.6243a49a.js.map",
+    "453.17135239.chunk.js.map": "/static/js/453.17135239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7ddab71.css",
+    "static/js/main.6243a49a.js"
+  ]
+}
